@@ -1,6 +1,6 @@
 first_name = "Mister"
-last_name = "Pink"
+last_name = "Nice man"
 age = "36"
 
-puts first_name + " " + last_name + " is " + age + ", asshole."
+puts first_name + " " + last_name + " is " + age + ", a kind fellow."
 
